@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://pay.cnmobi.cn/upload/ipa/youxiangju.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://pay.cnmobi.cn/upload/ipa/cb62f70b7f11b4daad34c6fa8fdc31e.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://pay.cnmobi.cn/upload/ipa/8c54537b1a41b3a177ccb10bff563bc.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>cn.cnmobi.ecwallet</string>
+				<key>bundle-version</key>
+				<string>3.3.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>多卡设备管理神器</string>
+				<key>title</key>
+				<string>优享聚</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
